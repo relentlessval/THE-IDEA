@@ -1,0 +1,8 @@
+# visual customization files that aren't needed
+# ---------------------------------------------
+# all they do is change how the folder is displayed
+# on the Windows desktop and in File Explorer
+desktop.ini
+
+# game save files
+output/
