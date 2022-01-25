@@ -2,7 +2,6 @@
 
 basically, here's a list of everything i ***WANT*** the game to have:
 
-* two character controls, does not necessarily mean two PLAYER controls (read below) :p
 * music (and sound effects)
 * actually nice graphics
 * a decent story
@@ -20,7 +19,6 @@ here's a list of everything i ***DO NOT WANT*** the game to have:
 lastly, here's a list of things that the game ***NEEDS*** to have:
 
 * a basic gui (menus, inventory, etc)
-* at least one character
 * a save file
 
 that's it, really. i know this isn't a traditional roadmap, but it is going to function as one.
